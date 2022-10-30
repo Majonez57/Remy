@@ -1,0 +1,15 @@
+{
+    "title": "Beans on Toast",
+    "ingredients": {
+        "Bread": "2 slices",
+        "Tin of Baked Beans": "1 tin"
+    },
+    "imageSrc":"https://www.seriouseats.com/thmb/Jt02NulFW6hWuMY4Z3vtJ9hXBls=/2800x1575/smart/filters:no_upscale()/British-Style-Beans-on-Toast-07-3443634e51574c88ba2dc5248b3b0cbf.jpg",
+    "description": "A classic",
+    "tags": ["bread", "beans"],
+    "steps": [
+        "Toast you bread and heat the beans",
+        "Once your bread has toasted and beans are heated, serve with bread as a base and beans spread over the toast."
+    ]
+        
+}

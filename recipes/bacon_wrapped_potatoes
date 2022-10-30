@@ -1,0 +1,17 @@
+{
+  "title": "Bacon Wrapped Potatoes",
+  "ingredients": {
+    "Potato": "4",
+    "Bacon": "4 slices"
+  },
+  "imageSrc": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fassets.marthastewart.com%2Fstyles%2Fwmax-750%2Fd27%2Fmed106330_1210_bacon_potato%2Fmed106330_1210_bacon_potato_horiz.jpg%3Fitok%3DnTv5oqGl",
+  "description": "A tasty snack, good for a quick lunch",
+  "tags": ["bacon", "potato"],
+  "steps": [
+    "Preheat the oven to 350.",
+    "Wrap each potato with a bacon strip and secure at each end with a toothpick. This is really easy to do with a fingeling potato as the long shape is ideal.",
+    "Place the bacon wrapped potatoes in a roasting dish uncovered.",
+    "Cook uncovered in the oven for an hour and 15 minutes or until desired crispness of the bacon. Turning over one time (you can remove the toothpicks before turning them) about half way through.",
+    "Serve"
+  ]
+}

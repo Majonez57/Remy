@@ -1,0 +1,19 @@
+{
+    "title": "Pesto Pasta",
+    "ingredients": {
+        "Pasta": "500g",
+        "Olive Oil": "2 tbsp",
+        "Onion": "1",
+        "Pesto": "2 and a half tbsp",
+        "Cheese": "handful"
+    },
+    "imageSrc":"https://nourishedbynutrition.com/wp-content/uploads/2020/06/Summer-Vegetable-Pesto-Pasta-1-1.jpg",
+    "description": "An easy dish to make quick.",
+    "tags": ["pasta", "olive_oil", "onion", "pesto", "cheese"],
+    "steps": [
+        "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl.",
+        "Meanwhile, heat oil in a frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes. Stir in pesto, salt, and pepper until warmed through.",
+        "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."
+            ]
+        
+}

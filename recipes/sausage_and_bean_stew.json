@@ -1,0 +1,24 @@
+{
+  "title": "Sausage and Baked Bean Stew",
+  "ingredients": {
+    "Olive Oil": "1 tbsp",
+    "Onion": "2",
+    "Garlic": "1 large clove",
+    "Sausage": "8",
+    "Tomatoes": "400g tin chopped",
+    "Mustard": "2 tsp Dijon Mustard",
+    "Stock": "1/2 chicken or vegetable",
+    "Beans": "1 tin",
+    "Spring Greens": "100g",
+    "Potato": "Mashed to serve (optional)"
+  },
+  "imageSrc":"https://realfood.tesco.com/media/images/RFO-1400x919-Sausage-and-cannellini-bean-casserole-5251efb3-d80d-46eb-b273-82596d8c64b7-0-1400x919.jpg",
+  "description": "Perfect for cold winters and in the build up to the festive season.",
+  "tags": ["olive_oil", "onion", "garlic", "sausage", "mustard", "stock_cube", "potato", "beans", "spring_greens"],
+  "steps": [
+    "Heat half the oil in a lidded saucepan over a medium heat. Add the onions and fry for 6 mins. Stir in the garlic and fry for 2 mins. Transfer to a plate and set aside.",
+    "Increase the heat to medium-high, add the remaining oil and the frozen sausages and cook for 5 mins until browned all over.",
+    "Return the onion and garlic to the pan with the tomatoes and mustard. Add the stock, season with pepper and cook over a medium heat for 10 mins, adding the beans after 5 mins.",
+    "Stir through the spring greens, cover and cook for 4-5 mins more until the sausages are cooked through and the spring greens are tender. Serve with mash, if you like."
+  ]
+}
